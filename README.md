@@ -1,7 +1,5 @@
 # dio-tradutor
 
-Claro! Aqui está um exemplo de um arquivo `README.md` para o seu repositório no GitHub:
-
 ```markdown
 # Document Translator
 
